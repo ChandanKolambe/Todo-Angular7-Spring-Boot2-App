@@ -1,4 +1,4 @@
-package com.todo.rest.todorest;
+package com.todo.rest.todorest.helloworld;
 
 public class HelloWorldBean {
 	private String message;
