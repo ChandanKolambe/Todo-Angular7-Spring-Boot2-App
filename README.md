@@ -41,6 +41,8 @@ Step 3: Once all packages are added successfully, execute command line
 
 Step 4: Open browser and go to **http://localhost:4200**
     Frontend is running on port 4200 and backend is running on port 8081
+    
+Step 4: To Login, Username : "user" and Password : "pass".
 
 ### Database
 
@@ -49,9 +51,9 @@ Step 1: Open browser and go to **http://localhost:8081/h2-console**
 Step 2: You will see login dialogue box to H2 Database.
 Please ensure that the details are as follows : 
 
-    + Driver Class:	:	org.h2.Driver
-    + JDBC URL:			jdbc:h2:mem:testdb
-    + User Name:		sa
-    + Password:	:		keep password field empty
+    + Driver Class:   org.h2.Driver
+    + JDBC URL:       jdbc:h2:mem:testdb
+    + User Name:      sa
+    + Password:       keep password field empty
 
 Step 3: Click on Connect.
