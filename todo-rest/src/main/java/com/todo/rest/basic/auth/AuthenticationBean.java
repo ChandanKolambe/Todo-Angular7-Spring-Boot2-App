@@ -1,4 +1,4 @@
-package com.todo.rest.todorest.basic.auth;
+package com.todo.rest.basic.auth;
 
 public class AuthenticationBean {
 
